@@ -5,10 +5,13 @@
   - i-)Proje referansına eklenecek -> System.Speech
   - ii-) Windows Media Player için:
     - iij -)Toolbox sağ click/Choose Items/Com Components/Check Windows Media Player checkbox/click ok
-    
-    
 
-- Youtube hesabım da olan örnek bir video: 
+- Proje klasörün de yapılması gereken hatırlatmalar:
+  - Müzik için projenin yer aldığı dizinde Grace\bin\Debug\music içerisine bir kaç adet müzik ekleyin.
+  - Başlangıçta müzik olmadığı için proje ilk çalıştığında sizden bir url isteyecek, o url ye müziklerin bulunduğu dizinin adresini verin.
+  - Url verirken C:\Users\murat\...Grace\bin\Debug\music diye vermelisiniz.
+
+- Youtube hesabım da olan örnek bir tanıtım videosu: 
 ->  - https://www.youtube.com/watch?v=4mr-tQglq0M&t
 
 
