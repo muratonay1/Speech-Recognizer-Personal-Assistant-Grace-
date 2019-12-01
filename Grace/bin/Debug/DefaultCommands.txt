@@ -1,0 +1,31 @@
+﻿Hello
+How are you
+Wake up
+Open Commands
+Close Commands
+Thank you
+close costumer service
+Minimize
+Normal
+Agent Mode
+Youtube
+show me
+Stop Speaking
+Where are you
+Music
+Back
+Play
+Next
+Stop
+Opacity
+Security Mode
+Costumer Service
+Clear
+Phone List
+be quiet
+keep going
+Fun Mode
+close fun mode
+Grace
+What is you name
+Application Exit
